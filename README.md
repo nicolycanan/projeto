@@ -1,3 +1,3 @@
-Development Tools & Cloud Computimg 
+Development Tools & Cloud Computing 
 
 Aula sobre git
